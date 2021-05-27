@@ -5,13 +5,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/kumudarani-mahanta-869231165/)
+- 🔭 I’m currently working on Doc2pen
+- 🌱 I’m currently learning React.
+- 👯 I’m looking to collaborate on UI/UX.
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/kumudarani-mahanta-869231165/) LinkedIn
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/Her
+
+ Projects I have contributed to:
+ 
+👯 DESGEN https://github.com/awantika10/Desgen
+ 
+👯 DOC2PEN https://github.com/smaranjitghose/doc2pen
 -->
