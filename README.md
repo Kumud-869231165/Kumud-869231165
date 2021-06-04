@@ -6,11 +6,10 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kumudarani-mahanta-869231165/) , [Behance](https://www.behance.net/kumud1) , [Twitter](https://twitter.com/KumudaraniM)
 - 😄 Pronouns: She/Her
 
-### Projects I have contributed to:
+### Project I have contributed to:
  
 👯 DESGEN https://github.com/awantika10/Desgen
  
-👯 DOC2PEN https://github.com/smaranjitghose/doc2pen
 <!--
 ### Projects I have contributed to:
 
