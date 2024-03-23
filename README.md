@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a web development and designing intern at The Sparks Foundation.
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on UI/UX.
+- 🔭 I’ve interned as a web development and designing intern at The Sparks Foundation.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kumudarani-mahanta-869231165/) , [Behance](https://www.behance.net/kumud1) , [Twitter](https://twitter.com/KumudaraniM)
 - 😄 Pronouns: She/Her
 
